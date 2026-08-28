@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea Ferretti</h1>
-<h3 align="center">Junior Software Engineer | Full-Stack & Backend Developer</h3>
+<h3 align="center">Full-Stack & Backend Engineer | Exploring IT/Cybersecurity</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+clean%2C+modular+applications;Backend+%7C+Full-Stack+%7C+Test+Automation;Relocating+to+Copenhagen+%F0%9F%87%A9%F0%9F%87%B0+in+Sep+2026" alt="Typing SVG" />
@@ -13,9 +13,9 @@
 
 ### 🚀 About Me
 
-I'm a Junior Software Engineer with experience in full-stack engineering, backend systems, and test automation. I focus on building clean, modular applications and writing highly maintainable code.
+I'm a Full-Stack & Backend Engineer with 3 years of professional experience across Python, TypeScript, and Java, building production web applications, optimizing SQL databases, and shipping automation tooling with Python and LangChain. I'm also exploring a parallel path into IT/cybersecurity, drawing on a background in test automation and QA discipline.
 
-I'm currently preparing to relocate to **Copenhagen, Denmark in September 2026** and am actively seeking **Full-Stack or Backend Developer** opportunities. Feel free to reach out if you're hiring or just want to connect!
+I'm relocating to **Copenhagen, Denmark**, targeting a **September 2026** start, and open to full-time backend, full-stack, or entry-level security-adjacent opportunities. Feel free to reach out if you're hiring or just want to connect!
 
 ---
 
@@ -60,19 +60,6 @@ I'm currently preparing to relocate to **Copenhagen, Denmark in September 2026**
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ferro98&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferro98&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ferro98&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
