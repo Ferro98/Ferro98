@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack & Backend Engineer | Exploring IT/Cybersecurity</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+clean%2C+modular+applications;Backend+%7C+Full-Stack+%7C+Test+Automation;Relocating+to+Copenhagen+%F0%9F%87%A9%F0%9F%87%B0+in+Sep+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+clean%2C+modular+applications;Backend+%7C+Full-Stack+%7C+Test+Automation;Based+in+Copenhagen+%F0%9F%87%A9%F0%9F%87%B0" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 I'm a Full-Stack & Backend Engineer with 3 years of professional experience across Python, TypeScript, and Java, building production web applications, optimizing SQL databases, and shipping automation tooling with Python and LangChain. I'm also exploring a parallel path into IT/cybersecurity, drawing on a background in test automation and QA discipline.
 
-I'm relocating to **Copenhagen, Denmark**, targeting a **September 2026** start, and open to full-time backend, full-stack, or entry-level security-adjacent opportunities. Feel free to reach out if you're hiring or just want to connect!
+I'm based in **Copenhagen, Denmark**, and open to full-time backend, full-stack, or entry-level security-adjacent opportunities. Feel free to reach out if you're hiring or just want to connect!
 
 ---
 
@@ -76,4 +76,4 @@ I'm relocating to **Copenhagen, Denmark**, targeting a **September 2026** start,
 
 ---
 
-<p align="center"><i>🇩🇰 Open to Full-Stack / Backend roles in Copenhagen starting September 2026</i></p>
+<p align="center"><i>🇩🇰 Based in Copenhagen — open to Full-Stack / Backend roles</i></p>
